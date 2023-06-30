@@ -1,0 +1,4 @@
+﻿  ConsoleApplication15.cpp
+C:\Users\mark\Desktop\C++\ConsoleApplication13\ConsoleApplication15.cpp(66,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\mark\Desktop\C++\ConsoleApplication13\ConsoleApplication15.cpp(268,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication15.vcxproj -> C:\Users\mark\Desktop\C++\ConsoleApplication13\Debug\ConsoleApplication15.exe
