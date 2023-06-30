@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1d.cpp
+C:\Users\mark\Desktop\ConsoleApplication1d\ConsoleApplication1d.cpp(12,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\mark\Desktop\ConsoleApplication1d\ConsoleApplication1d.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1d.vcxproj -> C:\Users\mark\Desktop\ConsoleApplication1d\Debug\ConsoleApplication1d.exe

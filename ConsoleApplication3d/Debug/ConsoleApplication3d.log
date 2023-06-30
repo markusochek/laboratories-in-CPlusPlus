@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3d.cpp
+C:\Users\mark\Desktop\ConsoleApplication3d\ConsoleApplication3d.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication3d.vcxproj -> C:\Users\mark\Desktop\ConsoleApplication3d\Debug\ConsoleApplication3d.exe
