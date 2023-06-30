@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\mark\Desktop\C++\ConsoleApplication11\main.cpp(37,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\mark\Desktop\C++\ConsoleApplication11\main.cpp(111,13): warning C4156: удаление массива без использования формы оператора "delete", предусмотренной для массива; подставлена предусмотренная форма оператора
+C:\Users\mark\Desktop\C++\ConsoleApplication11\main.cpp(111,13): warning C4154: удаление массива; выполнено преобразование к указателю
+  Main.vcxproj -> C:\Users\mark\Desktop\C++\ConsoleApplication11\Debug\Main.exe
