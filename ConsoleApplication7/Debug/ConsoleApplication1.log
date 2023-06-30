@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\mark\Desktop\C++ блок Б\ConsoleApplication7\ConsoleApplication1.cpp(22,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\mark\Desktop\C++ блок Б\ConsoleApplication7\ConsoleApplication1.cpp(29,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\mark\Desktop\C++ блок Б\ConsoleApplication7\ConsoleApplication1.cpp(25,6): warning C4101: i: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\Users\mark\Desktop\C++ блок Б\ConsoleApplication7\Debug\ConsoleApplication1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ConsoleApplication1.vcxproj -> C:\Users\mark\Desktop\C++ блок Б\ConsoleApplication7\Debug\ConsoleApplication1.exe
