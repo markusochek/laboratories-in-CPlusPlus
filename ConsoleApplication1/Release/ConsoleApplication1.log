@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+  project1.cpp
+C:\Users\Mark\Desktop\ConsoleApplication1\project1.cpp(13,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+project1.obj : error LNK2005: _main уже определен в ConsoleApplication1.obj
+C:\Users\Mark\Desktop\ConsoleApplication1\Release\ConsoleApplication1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
